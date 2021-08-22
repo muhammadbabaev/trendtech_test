@@ -1,0 +1,25 @@
+{
+  "name": "@muhammadbabaev/trendtech-test",
+  "version": "1.0.0",
+  "description": "TrendTech test for job candidate",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadbabaev2/trendtech_test.git"
+  },
+  "keywords": [
+    "trendtech"
+  ],
+  "author": "Muhammad Babaev <muhammad.babaev.mail@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadbabaev2/trendtech_test/issues"
+  },
+  "homepage": "https://github.com/muhammadbabaev2/trendtech_test#readme",
+  "devDependencies": {
+    "mocha": "^9.1.0"
+  }
+}
