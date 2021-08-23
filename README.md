@@ -2,12 +2,12 @@
 
 ## Installation
 ```bash
-npm i @muhammadbabaev2/trendtech_test
+npm i @muhammadbabaev/trendtech_test
 ```
 
 ## Usage
 ```javascript
-const shortSequence = require("@muhammadbabaev2/trendtech_test")
+const shortSequence = require("@muhammadbabaev/trendtech_test")
 
 (async () => {
   const array = [1,2,3,5,6,9,9,10,11,12,33]
